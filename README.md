@@ -1,9 +1,9 @@
 ### Well hello! 👋🏾
-##### I'm Afrifa
-![I'm Afrifa](https://github.com/isaacafrifa/isaacafrifa/blob/main/LinkedIn_banner.jpg)
+#### I'm Afrifa
+![I'm Afrifa](https://media-exp1.licdn.com/dms/image/C4E16AQFk-uHeIGhvyw/profile-displaybackgroundimage-shrink_350_1400/0/1631711017861?e=1638403200&v=beta&t=JmJawVXSt1e2D3TWmqXd2Ee6QqV0mo8fR1Wo09U2H08)
 
 I'm into product development and photography. Started out as an android developer and now a huge fan of **Java Spring Boot** and **React JS**. I'm a published Researcher and hold an MSc in Software Engineering. Currently, working as a Freelancer and consider myself an 'eternal student' in this abyss we call Technology 🌍.
-You can also check out my bitbucket (I'm more active on there🤪) at https://bitbucket.org/mrBlo
+You can also check out my bitbucket (I'm more active on there🤪 ) at https://bitbucket.org/mrBlo
 
 
 - 🔭 I’m currently working on a fullstack blog site. 
