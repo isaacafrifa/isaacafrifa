@@ -16,7 +16,7 @@ You can also check out my bitbucket (I'm more active on there🤪 ) at https://b
 
 Feel free to get in touch ✌🏾
 
-[<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' width='24'>](https://github.com/https://github.com/isaacafrifa)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' align="left" width='24'>](https://www.linkedin.com/in/https://www.linkedin.com/in/isaac-afrifa-9aa543106)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' align="left" width='24'>](https://www.isaacafrifa.com/)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bitbucket.svg' alt='bitbucket' align="left" width='24'>](https://bitbucket.org/mrBlo)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' width='32'>](https://github.com/https://github.com/isaacafrifa)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' width='32'>](https://www.linkedin.com/in/https://www.linkedin.com/in/isaac-afrifa-9aa543106)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' width='32'>](https://www.isaacafrifa.com/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bitbucket.svg' alt='bitbucket' width='32'>](https://bitbucket.org/mrBlo)  
