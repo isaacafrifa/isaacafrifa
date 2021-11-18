@@ -8,7 +8,7 @@ I'm Afrifa and I'm into product development and photography. Started out as an a
 You can also check out my bitbucket (I'm more active on there🤪 ) at https://bitbucket.org/mrBlo
 
 
-- 🔭 I’m currently working on a fullstack blog site. 
+- 🔭 I’m currently working on a collection of microservices for a shopping cart application. 
 - 👯 I’m looking to collaborate on web applications 
 - 💬 Ask me about development in general 
 - 📫 How to reach me: https://www.isaacafrifa.com 
