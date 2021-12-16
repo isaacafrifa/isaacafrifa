@@ -1,4 +1,4 @@
-![I'm Afrifa](https://media-exp1.licdn.com/dms/image/C4E16AQFk-uHeIGhvyw/profile-displaybackgroundimage-shrink_350_1400/0/1631711017861?e=1638403200&v=beta&t=JmJawVXSt1e2D3TWmqXd2Ee6QqV0mo8fR1Wo09U2H08)
+![I'm Afrifa](https://media-exp1.licdn.com/dms/image/C4E16AQFk-uHeIGhvyw/profile-displaybackgroundimage-shrink_350_1400/0/1631711017861?e=1645056000&v=beta&t=Tzda1sR2pnNfIi0Bu8wCkIzn071t8ktMP10tjk1JGl8)
 
 # Isaac Afrifa
 #### Well hello! 👋🏾 
