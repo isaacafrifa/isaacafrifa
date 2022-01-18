@@ -5,13 +5,13 @@
 
 I'm Afrifa and I'm into product development and photography. Started out as an android developer and now a huge fan of **Java Spring Boot** and **React JS**. I'm a published Researcher and hold an MSc in Software Engineering. Currently, working as a Freelancer and consider myself an 'eternal student' in this abyss we call Technology 🌍 .
 
-You can also check out my bitbucket (I'm more active on there🤪 ) at https://bitbucket.org/mrBlo
+You should also check out my bitbucket (I'm more active on there😊 ) at https://bitbucket.org/mrBlo
 
 
 - 🔭 I’m currently working on a collection of microservices for an inventory management application. 
 - 👯 I’m looking to collaborate on web applications 
 - 💬 Ask me about development in general 
-- 📫 How to reach me: https://www.isaacafrifa.com 
+- 📫 How to reach me: https://www.isaacafrifa.com/contact 
 - ⚡ Fun fact: I enjoy lifting heavy stuff at the gym🏋🏽‍♂️ and enjoy watching football⚽️. 
 
 Feel free to get in touch ✌🏾
