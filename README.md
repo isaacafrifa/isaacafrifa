@@ -3,7 +3,7 @@
 <h2 align="center">Well, hello! 👋🏾 I'm Afrifa. </h2>
 
 
-I started out as an android developer and now a huge fan of **Java Spring Boot** and **React JS**. I'm a published Researcher and hold an MSc in Software Engineering. Currently, working as a Freelancer and consider myself an 'eternal student' in the world of Tech 🌍 .
+I started out as an android developer and now a huge fan of **Java Spring Boot** and **React JS**. I'm a published Researcher and hold an MSc in Software Engineering. Currently, working as a Freelancer and consider myself an 'eternal student' in the world of Tech.
 
 You should also check out my [BitBucket](https://bitbucket.org/mrBlo) (I'm more active on there)
 
