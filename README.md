@@ -8,7 +8,7 @@ I started out as an android developer and now a huge fan of **Java Spring Boot**
 You should also check out my [BitBucket](https://bitbucket.org/mrBlo) (I'm more active on there)
 
 
-- 🔭 I’m currently working on a collection of microservices for an inventory management application. 
+- 🔭 I’m currently working on some AWS. 
 - 👯 I’m looking to collaborate on anything software 
 - 💬 Ask me about development
 - 📫 How to reach me: [Contact](https://www.isaacafrifa.com/contact) 
