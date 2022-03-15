@@ -1,4 +1,4 @@
-![Isaac Afrifa](https://media-exp1.licdn.com/dms/image/C4E16AQFk-uHeIGhvyw/profile-displaybackgroundimage-shrink_350_1400/0/1631711017861?e=1645056000&v=beta&t=Tzda1sR2pnNfIi0Bu8wCkIzn071t8ktMP10tjk1JGl8)
+![Isaac Afrifa](./banner.jpeg)
 
 <h2 align="center">Well, hello! 👋🏾 I'm Afrifa. </h2>
 
