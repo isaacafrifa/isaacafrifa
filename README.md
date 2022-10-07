@@ -3,12 +3,12 @@
 <h2 align="center">Well, hello there! 👋🏾 I'm Afrifa. </h2>
 
 
-I started out as an android developer and now a huge fan of **Java Spring Boot** and **React JS**. I'm a published Researcher and hold an MSc in Software Engineering. Currently, working as a Freelancer and consider myself an 'eternal student' in the world of Tech.
+I started out as an android developer and now a huge fan of **Java Spring Boot** and **React JS**. I'm a published Researcher and hold an MSc in Software Engineering. Currently, working as a Lead Developer and consider myself an 'eternal student' in the world of Tech.
 
-You should also check out my [BitBucket](https://bitbucket.org/mrBlo) (I'm more active on there)
+You should also check out my [BitBucket](https://bitbucket.org/mrBlo)
 
 
-- 🔭 I’m currently working on some AWS. 
+- 🔭 I’m currently working on some Microservices. 
 - 👯 I’m looking to collaborate on anything software 
 - 💬 Ask me about development
 - 📫 How to reach me: [Contact](https://www.isaacafrifa.com/contact) 
