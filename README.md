@@ -3,16 +3,14 @@
 <h2 align="center">Well, hello there! 👋🏾 I'm Afrifa. </h2>
 
 
-I started out as an Android developer and I'm now a huge fan of **Java Spring Boot** and **React JS**. I'm a published researcher and hold an MSc in Software Engineering. Currently working as an engineer and consider myself an 'eternal student' in the world of Tech.
-
-You should also check out my [BitBucket](https://bitbucket.org/mrblo)
+I started my journey as an Android developer but I'm now a huge fan of **Java Spring Boot** and **React JS**. I'm a published researcher and currently working as a Software Engineer. I am always looking to try new things and consider myself an 'eternal student' in the world of Tech.
 
 
-- 🔭 I’m currently working on some Microservices. 
 - 👯 I’m looking to collaborate on anything software 
 - 💬 Ask me about development
 - 📫 How to reach me: [Contact](https://www.isaacafrifa.com/contact) 
-- ⚡ Fun fact: I enjoy working out🏋🏽‍♂️ and watching football⚽️. 
+- ⚡ Fun fact: I enjoy working out🏋🏽‍♂️ and watching football⚽️.
+-  My [BitBucket](https://bitbucket.org/mrblo) has been deprecated 🫣
 
 
 <h4 align="center">Get in touch</h4>
