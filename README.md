@@ -1,6 +1,6 @@
 ![Isaac Afrifa](./banner.jpeg)
 
-<h2 align="center">Well, hello there! 👋🏾 I'm Afrifa. </h2>
+<h2 align="center">Well, hi there! 👋🏾 I'm Afrifa. </h2>
 
 
 I started my journey as an Android developer but I'm now a huge fan of **Java Spring Boot** and **React JS**. I'm a published researcher and currently working as a Software Engineer. I always want to try new things and consider myself an 'eternal student' in Tech.
