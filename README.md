@@ -6,7 +6,7 @@
 I started my journey as an Android developer but I am now a huge fan of **Java Spring Boot** and **React JS**. I'm a published researcher and currently working as a Software Engineer at Accenture. I am always looking to improve my skill set, try new things, and consider myself a continuous learner in Tech.
 
 
-- 👯 I’m looking to collaborate on anything software 
+- 👯 I’m looking to collaborate on anything software-related 
 - 💬 Ask me about development
 - 🧘🏾 Currently focused on improving DevOps-related skills
 - 📫 How to reach me: [Contact](https://www.isaacafrifa.com/contact) 
