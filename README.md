@@ -8,7 +8,6 @@ I started my journey as an Android developer but I am now a huge fan of **Java S
 
 - 👯 I’m looking to collaborate on anything software-related 
 - 💬 Ask me about development
-- 🧘🏾 Currently focused on improving DevOps-related skills
 - 📫 How to reach me: [Contact](https://www.isaacafrifa.com/contact) 
 - ⚡ Fun fact: I enjoy working out🏋🏽‍♂️ and watching football⚽️.
 -  My [BitBucket](https://bitbucket.org/mrblo) has been deprecated 🫣
